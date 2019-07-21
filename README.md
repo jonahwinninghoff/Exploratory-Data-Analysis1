@@ -111,4 +111,6 @@ https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png
 ### Plot 4
 
 https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png
+![https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png](figure/unnamed-chunk-5.png) 
+
 
